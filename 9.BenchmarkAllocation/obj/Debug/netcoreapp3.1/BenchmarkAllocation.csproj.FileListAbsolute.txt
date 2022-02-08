@@ -1,0 +1,13 @@
+E:\DOT NET LAB\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.csprojAssemblyReference.cache
+E:\DOT NET LAB\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.AssemblyInfoInputs.cache
+E:\DOT NET LAB\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.AssemblyInfo.cs
+E:\DOT NET LAB\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.csproj.CoreCompileInputs.cache
+E:\DOT NET LAB\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.exe
+E:\DOT NET LAB\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.deps.json
+E:\DOT NET LAB\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.runtimeconfig.json
+E:\DOT NET LAB\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.runtimeconfig.dev.json
+E:\DOT NET LAB\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.dll
+E:\DOT NET LAB\BenchmarkAllocation\bin\Debug\netcoreapp3.1\BenchmarkAllocation.pdb
+E:\DOT NET LAB\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.dll
+E:\DOT NET LAB\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.pdb
+E:\DOT NET LAB\BenchmarkAllocation\obj\Debug\netcoreapp3.1\BenchmarkAllocation.genruntimeconfig.cache
