@@ -1,0 +1,13 @@
+E:\DOT NET LAB\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.exe
+E:\DOT NET LAB\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.deps.json
+E:\DOT NET LAB\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.runtimeconfig.json
+E:\DOT NET LAB\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.runtimeconfig.dev.json
+E:\DOT NET LAB\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.dll
+E:\DOT NET LAB\BinaryTriangle\bin\Debug\netcoreapp3.1\BinaryTriangle.pdb
+E:\DOT NET LAB\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.csprojAssemblyReference.cache
+E:\DOT NET LAB\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.AssemblyInfoInputs.cache
+E:\DOT NET LAB\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.AssemblyInfo.cs
+E:\DOT NET LAB\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.csproj.CoreCompileInputs.cache
+E:\DOT NET LAB\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.dll
+E:\DOT NET LAB\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.pdb
+E:\DOT NET LAB\BinaryTriangle\obj\Debug\netcoreapp3.1\BinaryTriangle.genruntimeconfig.cache
