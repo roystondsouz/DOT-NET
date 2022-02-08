@@ -1,0 +1,13 @@
+E:\DOT NET LAB\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.exe
+E:\DOT NET LAB\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.deps.json
+E:\DOT NET LAB\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.runtimeconfig.json
+E:\DOT NET LAB\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.runtimeconfig.dev.json
+E:\DOT NET LAB\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.dll
+E:\DOT NET LAB\PersonalDetails\bin\Debug\netcoreapp3.1\PersonalDetails.pdb
+E:\DOT NET LAB\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.csprojAssemblyReference.cache
+E:\DOT NET LAB\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.AssemblyInfoInputs.cache
+E:\DOT NET LAB\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.AssemblyInfo.cs
+E:\DOT NET LAB\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.csproj.CoreCompileInputs.cache
+E:\DOT NET LAB\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.dll
+E:\DOT NET LAB\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.pdb
+E:\DOT NET LAB\PersonalDetails\obj\Debug\netcoreapp3.1\PersonalDetails.genruntimeconfig.cache
