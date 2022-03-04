@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3danqfQzmfHrD4G2ZPHHxjU/lFSBuoTTEcuVXNw/yX8UuMA6dezOH84DP03a8snKzS7UAIrYkVMNLFmRaudHg==",
+  "success": true,
+  "projectFilePath": "E:\\DOt .net\\01.Binary triangle\\Binary triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
