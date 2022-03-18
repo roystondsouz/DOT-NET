@@ -1,0 +1,13 @@
+E:\DOt .net\SumOfDiagonals\obj\Debug\netcoreapp3.1\SumOfDiagonals.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOt .net\SumOfDiagonals\obj\Debug\netcoreapp3.1\SumOfDiagonals.AssemblyInfoInputs.cache
+E:\DOt .net\SumOfDiagonals\obj\Debug\netcoreapp3.1\SumOfDiagonals.AssemblyInfo.cs
+E:\DOt .net\SumOfDiagonals\obj\Debug\netcoreapp3.1\SumOfDiagonals.csproj.CoreCompileInputs.cache
+E:\DOt .net\SumOfDiagonals\bin\Debug\netcoreapp3.1\SumOfDiagonals.exe
+E:\DOt .net\SumOfDiagonals\bin\Debug\netcoreapp3.1\SumOfDiagonals.deps.json
+E:\DOt .net\SumOfDiagonals\bin\Debug\netcoreapp3.1\SumOfDiagonals.runtimeconfig.json
+E:\DOt .net\SumOfDiagonals\bin\Debug\netcoreapp3.1\SumOfDiagonals.runtimeconfig.dev.json
+E:\DOt .net\SumOfDiagonals\bin\Debug\netcoreapp3.1\SumOfDiagonals.dll
+E:\DOt .net\SumOfDiagonals\bin\Debug\netcoreapp3.1\SumOfDiagonals.pdb
+E:\DOt .net\SumOfDiagonals\obj\Debug\netcoreapp3.1\SumOfDiagonals.dll
+E:\DOt .net\SumOfDiagonals\obj\Debug\netcoreapp3.1\SumOfDiagonals.pdb
+E:\DOt .net\SumOfDiagonals\obj\Debug\netcoreapp3.1\SumOfDiagonals.genruntimeconfig.cache
