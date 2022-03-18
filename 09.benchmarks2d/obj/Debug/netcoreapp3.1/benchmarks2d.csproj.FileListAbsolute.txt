@@ -1,0 +1,13 @@
+C:\Users\mca\source\repos\benchmarks2d\obj\Debug\netcoreapp3.1\benchmarks2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mca\source\repos\benchmarks2d\obj\Debug\netcoreapp3.1\benchmarks2d.AssemblyInfoInputs.cache
+C:\Users\mca\source\repos\benchmarks2d\obj\Debug\netcoreapp3.1\benchmarks2d.AssemblyInfo.cs
+C:\Users\mca\source\repos\benchmarks2d\obj\Debug\netcoreapp3.1\benchmarks2d.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\benchmarks2d\bin\Debug\netcoreapp3.1\benchmarks2d.exe
+C:\Users\mca\source\repos\benchmarks2d\bin\Debug\netcoreapp3.1\benchmarks2d.deps.json
+C:\Users\mca\source\repos\benchmarks2d\bin\Debug\netcoreapp3.1\benchmarks2d.runtimeconfig.json
+C:\Users\mca\source\repos\benchmarks2d\bin\Debug\netcoreapp3.1\benchmarks2d.runtimeconfig.dev.json
+C:\Users\mca\source\repos\benchmarks2d\bin\Debug\netcoreapp3.1\benchmarks2d.dll
+C:\Users\mca\source\repos\benchmarks2d\bin\Debug\netcoreapp3.1\benchmarks2d.pdb
+C:\Users\mca\source\repos\benchmarks2d\obj\Debug\netcoreapp3.1\benchmarks2d.dll
+C:\Users\mca\source\repos\benchmarks2d\obj\Debug\netcoreapp3.1\benchmarks2d.pdb
+C:\Users\mca\source\repos\benchmarks2d\obj\Debug\netcoreapp3.1\benchmarks2d.genruntimeconfig.cache
