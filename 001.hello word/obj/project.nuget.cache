@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jhZ1kh7D8m/crHZ/eaSH02jd6CtFTIjIPhJEBU7SpqDS0jfAYk8myQIa3EIJ7+1BEC06U/A6ILOaoO/DNB/qow==",
+  "success": true,
+  "projectFilePath": "E:\\DOt .net\\001.hello word\\hello word.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
