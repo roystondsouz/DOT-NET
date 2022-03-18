@@ -1,0 +1,14 @@
+E:\DOt .net\frequency\bin\Debug\netcoreapp3.1\frequency.exe
+E:\DOt .net\frequency\bin\Debug\netcoreapp3.1\frequency.deps.json
+E:\DOt .net\frequency\bin\Debug\netcoreapp3.1\frequency.runtimeconfig.json
+E:\DOt .net\frequency\bin\Debug\netcoreapp3.1\frequency.runtimeconfig.dev.json
+E:\DOt .net\frequency\bin\Debug\netcoreapp3.1\frequency.dll
+E:\DOt .net\frequency\bin\Debug\netcoreapp3.1\frequency.pdb
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.csproj.AssemblyReference.cache
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.AssemblyInfoInputs.cache
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.AssemblyInfo.cs
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.csproj.CoreCompileInputs.cache
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.dll
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.pdb
+E:\DOt .net\frequency\obj\Debug\netcoreapp3.1\frequency.genruntimeconfig.cache
