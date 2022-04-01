@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yrZQR8Av6t/OCbI7VNzY1KjMIEKT2S07ltGWiQewA+qfuebSL1VrqfVj4zsdUj3uQKseHqpOHYd7i5quXUGNOQ==",
+  "success": true,
+  "projectFilePath": "E:\\DOt .net\\Finally block\\Finally block.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
