@@ -1,0 +1,14 @@
+C:\Users\mca\source\repos\IComparable Interface\bin\Debug\netcoreapp3.1\IComparable Interface.exe
+C:\Users\mca\source\repos\IComparable Interface\bin\Debug\netcoreapp3.1\IComparable Interface.deps.json
+C:\Users\mca\source\repos\IComparable Interface\bin\Debug\netcoreapp3.1\IComparable Interface.runtimeconfig.json
+C:\Users\mca\source\repos\IComparable Interface\bin\Debug\netcoreapp3.1\IComparable Interface.runtimeconfig.dev.json
+C:\Users\mca\source\repos\IComparable Interface\bin\Debug\netcoreapp3.1\IComparable Interface.dll
+C:\Users\mca\source\repos\IComparable Interface\bin\Debug\netcoreapp3.1\IComparable Interface.pdb
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.csproj.AssemblyReference.cache
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.AssemblyInfoInputs.cache
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.AssemblyInfo.cs
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.dll
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.pdb
+C:\Users\mca\source\repos\IComparable Interface\obj\Debug\netcoreapp3.1\IComparable Interface.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/8khbFBygyD748PX+NUPmYfh4/ltLkjS9wF+wvzqWBAJfqPeUPnaZEd28ypISYaqGHZLAslHGkwWyWEdb/FXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mca\\source\\repos\\IComparable Interface\\IComparable Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mca\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
